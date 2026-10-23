@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Sass, Tailwind, React, Next, Express, Node, MongoDB.**
 
-- 📫 How to reach me **denniswmabugu60@gmail.com**
+- 📫 How to reach me **denniswambugu60@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
